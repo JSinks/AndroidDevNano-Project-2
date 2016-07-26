@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+
+    <string name="home_text">Home</string>
+    <string name="away_text">Away</string>
+
+    <string name="strike_text">Strikes</string>
+    <string name="ball_text">Balls</string>
+    <string name="out_text">Outs</string>
+</resources>
